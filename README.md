@@ -2,7 +2,7 @@
 
 Basic Web scraper for NodeJS (request, phantomjs & cheerio).
 
-[![NPM](https://nodei.co/npm/nicescrapper.png)](https://nodei.co/npm/nicescrapper/)
+[![NPM](https://nodei.co/npm/nicescraper.png)](https://nodei.co/npm/nicescraper/)
 
 ##Example
 
