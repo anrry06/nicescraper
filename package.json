@@ -1,6 +1,6 @@
 {
   "name": "nicescraper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Basic Web scraper for NodeJS (request, phantomjs & cheerio)",
   "main": "index.js",
   "scripts": {

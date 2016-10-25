@@ -1,4 +1,4 @@
-#nicescrapper
+#nicescraper
 
 Basic Web scraper for NodeJS (request, phantomjs & cheerio).
 
